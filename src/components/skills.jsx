@@ -1,13 +1,13 @@
 import React from 'react';
 import html from '../exImgs/html.png';
-import css from '../exImgs/css.png';
+import css from '../exImgs/css.webp';
 import js from '../exImgs/JS.png';
 import react from '../exImgs/react.png';
 import tailwind from '../exImgs/tailwind.png';
 import c from '../exImgs/c++.png';
-import oop from '../exImgs/oop.jpg';
+import oop from '../exImgs/oop.png';
 import github from '../exImgs/github.png';
-import database from '../exImgs/database.ico';
+import database from '../exImgs/database.png';
 
 
 const Skills = () => {
